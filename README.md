@@ -1,8 +1,7 @@
 # Hi, I'm Edwin Uc
+### Backend-Focused Fullstack Developer
 
-Backend-Focused Fullstack Developer
-
-I build secure and scalable web applications with strong emphasis on backend architecture, authentication systems, and business logic design.
+I build secure and scalable web applications with strong emphasis on backend architecture, authentication systems and business logic design.
 
 I have professional experience developing enterprise systems during my university internships and continue building production-ready personal projects.
 
@@ -12,7 +11,7 @@ I have professional experience developing enterprise systems during my universit
 Full-featured Point of Sale system for a technology retail store.
 
 - Role-Based Access Control (Admin / Seller)
-- JWT authentication stored in HttpOnly Cookies
+- JWT authentication stored in HttpOnly cookies for secure session handling
 - Inventory & sales modules
 - Metrics & reporting
 - REST API architecture
@@ -25,7 +24,7 @@ Corporate training management system.
 - Email notifications using OAuth2
 - Role-based access control
 - Separate frontend & backend repositories
-- Cloud deployment (Vercel + Render + Railway)
+- Cloud deployment using Vercel, Render and Railway
 
 ### 📊 Area Reports Management System (Los Cinco Soles – Internship)
 Business reporting system built with Laravel.
@@ -45,20 +44,20 @@ Service-based booking platform.
 
 ## 💻 Tech Stack
 
-### ⚙️Backend
-`Node.js` `Express` `REST APIs` `JWT` `Laravel`
+### ⚙️ Backend
+`Node.js` · `Express` · `REST APIs` · `JWT` · `Laravel`
 
-### 🎨Frontend
-`Next.js` `React` `Axios` `Bootstrap` `Material-UI`
+### 🎨 Frontend
+`Next.js` · `React` · `Axios` · `Bootstrap` · `Material UI`
 
-### 🗄️Databases
-`MongoDB` `MySQL`
+### 🗄 Databases
+`MongoDB` · `MySQL`
 
-### 🔁DevOps
-`Git` `POSTMAN` `SCRUM` `Jira` `Figma`
+### 🔁 Tools & Workflow
+`Git` · `Postman` · `SCRUM` · `Jira` · `Figma`
 
-### ☁️Cloud & Deployment
-`Railway` `Render` `Vercel` `Cloudinary`
+### ☁️ Cloud & Deployment
+`Railway` · `Render` · `Vercel` · `Cloudinary`
 
 ## 🎯 Current Focus
 Improving backend architecture, security practices and scalable API design patterns.
