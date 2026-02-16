@@ -12,8 +12,8 @@ I have professional experience developing enterprise systems during my universit
 Full-featured Point of Sale system for a technology retail store.
 
 - Role-Based Access Control (Admin / Seller)
-- JWT authentication stored in httpOnly cookies
-- Inventory & sales tracking
+- JWT authentication stored in HttpOnly Cookies
+- Inventory & sales modules
 - Metrics & reporting
 - REST API architecture
 - Separate frontend & backend repositories
@@ -30,7 +30,7 @@ Corporate training management system.
 ### 📊 Area Reports Management System (Los Cinco Soles – Internship)
 Business reporting system built with Laravel.
 
-- Internal process tracking
+- Responsive design
 - Role-based permissions
 - Relational database design
 - MVC architecture
