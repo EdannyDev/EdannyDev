@@ -46,19 +46,19 @@ Service-based booking platform.
 ## 💻 Tech Stack
 
 ### ⚙️Backend
-- `Node.js` `Express` `REST APIs` `JWT` `Laravel`
+`Node.js` `Express` `REST APIs` `JWT` `Laravel`
 
 ### 🎨Frontend
-- `Next.js` `React` `Axios` `Bootstrap` `Material-UI`
+`Next.js` `React` `Axios` `Bootstrap` `Material-UI`
 
 ### 🗄️Databases
-- `MongoDB` `MySQL`
+`MongoDB` `MySQL`
 
 ### 🔁DevOps
-- `Git` `POSTMAN` `SCRUM` `Jira` `Figma`
+`Git` `POSTMAN` `SCRUM` `Jira` `Figma`
 
 ### ☁️Cloud & Deployment
-- `Railway` `Render` `Vercel` `Cloudinary`
+`Railway` `Render` `Vercel` `Cloudinary`
 
 ## 🎯 Current Focus
 Improving backend architecture, security practices and scalable API design patterns.
