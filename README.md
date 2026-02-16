@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Edwin Uc
 
-<!--
-**EdannyDev/EdannyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-Focused Fullstack Developer
 
-Here are some ideas to get you started:
+I build secure and scalable web applications with strong emphasis on backend architecture, authentication systems, and business logic design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have professional experience developing enterprise systems during my university internships and continue building production-ready personal projects.
+
+## 🧑‍💻 Featured Systems
+
+### 🕹️ POS Gamer System (Deployed)
+Full-featured Point of Sale system for a technology retail store.
+
+- Role-Based Access Control (Admin / Seller)
+- JWT authentication stored in httpOnly cookies
+- Inventory & sales tracking
+- Metrics & reporting
+- REST API architecture
+- Separate frontend & backend repositories
+
+### 🏢 Enterprise Training Platform (DIMMMSA – Internship)
+Corporate training management system.
+
+- Automatic evaluation assignment
+- Email notifications using OAuth2
+- Role-based access control
+- Separate frontend & backend repositories
+- Cloud deployment (Vercel + Render + Railway)
+
+### 📊 Area Reports Management System (Los Cinco Soles – Internship)
+Business reporting system built with Laravel.
+
+- Internal process tracking
+- Role-based permissions
+- Relational database design
+- MVC architecture
+
+### 📅 Appointment Management System (In Development)
+Service-based booking platform.
+
+- Availability validation
+- Business rules enforcement
+- MySQL relational modeling
+- Backend Post-MVP improvements in progress
+
+## 💻 Tech Stack
+
+### ⚙️Backend
+- `Node.js` `Express` `REST APIs` `JWT` `Laravel`
+
+### 🎨Frontend
+- `Next.js` `React` `Axios` `Bootstrap` `Material-UI`
+
+### 🗄️Databases
+- `MongoDB` `MySQL`
+
+### 🔁DevOps
+- `Git` `POSTMAN` `SCRUM` `Jira` `Figma`
+
+### ☁️Cloud & Deployment
+- `Railway` `Render` `Vercel` `Cloudinary`
+
+## 🎯 Current Focus
+Improving backend architecture, security practices and scalable API design patterns.
