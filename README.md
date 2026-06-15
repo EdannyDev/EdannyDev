@@ -1,5 +1,5 @@
 # Hi, I'm Edwin Uc
-### Backend-Focused Fullstack Developer
+### Web Developer Jr.
 
 I build secure and scalable web applications with strong emphasis on backend architecture, authentication systems and business logic design.
 
