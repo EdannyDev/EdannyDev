@@ -1,63 +1,152 @@
-# Hi, I'm Edwin Uc
-### Web Developer Jr.
+# 👋 Hi, I'm Edwin Daniel Uc Chan
 
-I build secure and scalable web applications with strong emphasis on backend architecture, authentication systems and business logic design.
+### Full Stack Developer (Backend-Focused)| Business Applications & API Development
 
-I have professional experience developing enterprise systems during my university internships and continue building production-ready personal projects.
+I build business-oriented software systems focused on process automation, business logic, and data consistency. 
+I have developed applications used by real users during professional projects and continue building solutions inspired by real-world production scenarios.
 
-## 🧑‍💻 Featured Systems
+## What I Build
 
-### 🕹️ POS Gamer System (Deployed)
-Full-featured Point of Sale system for a technology retail store.
+- Training Management Systems
+- Appointment & Booking Platforms
+- Business Applications
+- REST APIs
+- Internal Management Systems
+- Inventory & Sales Platforms
 
-- Role-Based Access Control (Admin / Seller)
-- JWT authentication stored in HttpOnly cookies for secure session handling
-- Inventory & sales modules
-- Metrics & reporting
-- REST API architecture
-- Separate frontend & backend repositories
+## Problems I've Solved
 
-### 🏢 Enterprise Training Platform (DIMMMSA – Internship)
-Corporate training management system.
+✅ Inventory consistency after sales operations
 
-- Automatic evaluation assignment
-- Email notifications using OAuth2
-- Role-based access control
-- Separate frontend & backend repositories
-- Cloud deployment using Vercel, Render and Railway
+✅ Duplicate transaction prevention
 
-### 📊 Area Reports Management System (Los Cinco Soles – Internship)
-Business reporting system built with Laravel.
+✅ Availability validation for appointment scheduling
 
-- Responsive design
-- Role-based permissions
+✅ Role-Based Access Control (RBAC)
+
+✅ Automated evaluation workflows
+
+✅ User progress tracking systems
+
+✅ Digitalization of operational processes
+
+## Featured Projects
+
+### 🕹️ POS Gamer
+
+Point of Sale system focused on inventory management, sales processing, and business metrics.
+
+**Highlights**
+
+- Inventory management
+- Sales processing
+- Role-Based Access Control (RBAC)
+- MongoDB aggregations for reporting
+- Duplicate sale prevention
+- JWT authentication with HttpOnly cookies
+
+**Links**
+- https://github.com/EdannyDev/backend-pos
+- https://github.com/EdannyDev/frontend-pos
+
+---
+
+### 📅 Appointment Management System
+
+Booking platform built around availability management and business rule enforcement.
+
+**Highlights**
+
+- Appointment overlap prevention
+- Dynamic availability generation
+- Business hours validation
+- Service management
+- Role-based scheduling workflows
+
+**Links**
+- https://github.com/EdannyDev/backend-appointment
+- https://github.com/EdannyDev/frontend-appointment
+
+---
+
+### 🏢 Enterprise Training Platform
+
+Corporate training system designed to support ERP adoption through structured learning workflows.
+
+**Highlights**
+
+- Progress tracking
+- Automated evaluations
+- FAQ management
+- Administrative dashboard
+- Email notification workflows
+
+**Links**
+- https://github.com/EdannyDev/backend-training
+- https://github.com/EdannyDev/frontend-training
+
+---
+
+### 📊 Area Reports Management System
+
+Internal reporting platform developed to centralize and track operational incidents.
+
+**Highlights**
+
+- Incident management
 - Relational database design
+- Role-based permissions
+- Internal workflow centralization
 - MVC architecture
 
-### 📅 Appointment Management System (In Development)
-Service-based booking platform.
-
-- Availability validation
-- Business rules enforcement
-- MySQL relational modeling
-- Backend Post-MVP improvements in progress
+**Links**
+- https://github.com/EdannyDev/reports-app
 
 ## 💻 Tech Stack
 
-### ⚙️ Backend
-`Node.js` · `Express` · `REST APIs` · `JWT` · `Laravel`
+### Backend
 
-### 🎨 Frontend
-`Next.js` · `React` · `Axios` · `Bootstrap` · `Material UI`
+- Node.js
+- Express
+- Laravel
+- REST APIs
+- JWT Authentication
+- RBAC
 
-### 🗄 Databases
-`MongoDB` · `MySQL`
+### Frontend
 
-### 🔁 Tools & Workflow
-`Git` · `Postman` · `SCRUM` · `Jira` · `Figma`
+- React
+- Next.js
+- JavaScript
+- TypeScript
 
-### ☁️ Cloud & Deployment
-`Railway` · `Render` · `Vercel` · `Cloudinary`
+### Databases
 
-## 🎯 Current Focus
-Improving backend architecture, security practices and scalable API design patterns.
+- MongoDB
+- MySQL
+
+### Testing
+
+- Jest
+- Supertest
+
+### Tools
+
+- Git
+- Postman
+
+### Cloud & Deployment
+
+- Vercel
+- Railway
+- Render
+
+## Current Focus
+
+Building maintainable backend systems, improving software architecture practices, and developing applications that solve real business problems.
+
+## Contact
+
+- `📧 Email: edanuc15@gmail.com`
+- `💼 LinkedIn: linkedin.com/in/devedanny`
+- `🌐 Portfolio: danny-place.vercel.app`
