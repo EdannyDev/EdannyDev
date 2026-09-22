@@ -2,27 +2,31 @@
 
 ### Full Stack Developer (Backend-Focused) | Business Applications & API Development
 
-I build business-oriented software systems focused on process automation, business logic, and data consistency. 
-I have developed applications used by real users during professional projects and continue building solutions inspired by real-world production scenarios.
+I build business-oriented software systems focused on process automation, business logic, and data consistency.
+I have developed applications used by real users during professional internships and continue building solutions inspired by real-world production scenarios.
+
+🟢 **Open to work** — Actively looking for a remote Junior Full Stack / Backend Developer role in Mexico & LATAM. Available to start immediately.
 
 ## What I Build
 
-- Training Management Systems
 - Appointment & Booking Platforms
+- Inventory & Sales Platforms
+- Training Management Systems
+- Internal Management Systems
 - Business Applications
 - REST APIs
-- Internal Management Systems
-- Inventory & Sales Platforms
 
 ## Problems I've Solved
 
-✅ Inventory consistency after sales operations
+✅ Race condition prevention on concurrent writes (MySQL named locks, atomic MongoDB updates)
+
+✅ Role-Based Access Control (RBAC) and ownership validation
 
 ✅ Duplicate transaction prevention
 
 ✅ Availability validation for appointment scheduling
 
-✅ Role-Based Access Control (RBAC)
+✅ Inventory consistency after sales operations
 
 ✅ Automated evaluation workflows
 
@@ -32,46 +36,63 @@ I have developed applications used by real users during professional projects an
 
 ## Featured Projects
 
-### 🕹️ POS Gamer
-
-Point of Sale system focused on inventory management, sales processing, and business metrics.
-
-**Highlights**
-
-- Inventory management
-- Sales processing
-- Role-Based Access Control (RBAC)
-- MongoDB aggregations for reporting
-- Duplicate sale prevention
-- JWT authentication with HttpOnly cookies
-
-**Links**
-- https://github.com/EdannyDev/backend-pos
-- https://github.com/EdannyDev/frontend-pos
-
----
-
 ### 📅 Appointment Management System
 
 Booking platform built around availability management and business rule enforcement.
 
 **Highlights**
 
-- Appointment overlap prevention
-- Dynamic availability generation
-- Business hours validation
-- Service management
-- Role-based scheduling workflows
+- MySQL named locks to prevent double-booking under concurrent requests
+- Appointment status state machine
+- Dynamic availability generation & business hours validation
+- Role-Based Access Control (RBAC)
+- JWT authentication with HttpOnly cookies
 
 **Links**
-- https://github.com/EdannyDev/backend-appointment
-- https://github.com/EdannyDev/frontend-appointment
+
+- Backend: <https://github.com/EdannyDev/backend-appointment>
+- Frontend: <https://github.com/EdannyDev/frontend-appointment>
+- Live demo: <https://gestor-citas-edannydev.vercel.app>
+
+---
+
+### 🕹️ POS Gamer
+
+Point of Sale system focused on inventory management, sales processing, and business metrics.
+
+**Highlights**
+
+- Duplicate sale prevention
+- Role-Based Access Control (RBAC)
+- MongoDB aggregations for reporting
+- JWT authentication with HttpOnly cookies
+
+**Links**
+
+- Backend: <https://github.com/EdannyDev/backend-pos>
+- Frontend: <https://github.com/EdannyDev/frontend-pos>
+
+---
+
+### 📊 Area Reports Management System
+
+Internal reporting platform developed during my first professional internship to centralize and track operational incidents by area.
+
+**Highlights**
+
+- Relational database design
+- Internal workflow centralization
+- MVC architecture (Laravel)
+
+**Links**
+
+- <https://github.com/EdannyDev/reports-app>
 
 ---
 
 ### 🏢 Enterprise Training Platform
 
-Corporate training system designed to support ERP adoption through structured learning workflows.
+Corporate training system developed during my second professional internship to support ERP adoption through structured learning workflows.
 
 **Highlights**
 
@@ -82,25 +103,9 @@ Corporate training system designed to support ERP adoption through structured le
 - Email notification workflows
 
 **Links**
-- https://github.com/EdannyDev/backend-training
-- https://github.com/EdannyDev/frontend-training
 
----
-
-### 📊 Area Reports Management System
-
-Internal reporting platform developed to centralize and track operational incidents.
-
-**Highlights**
-
-- Incident management
-- Relational database design
-- Role-based permissions
-- Internal workflow centralization
-- MVC architecture
-
-**Links**
-- https://github.com/EdannyDev/reports-app
+- Backend: <https://github.com/EdannyDev/backend-training>
+- Frontend: <https://github.com/EdannyDev/frontend-training>
 
 ## 💻 Tech Stack
 
@@ -108,7 +113,7 @@ Internal reporting platform developed to centralize and track operational incide
 
 - Node.js
 - Express
-- Laravel
+- PHP / Laravel
 - REST APIs
 - JWT Authentication
 - RBAC
@@ -122,8 +127,8 @@ Internal reporting platform developed to centralize and track operational incide
 
 ### Databases
 
-- MongoDB
 - MySQL
+- MongoDB
 
 ### Testing
 
@@ -138,8 +143,8 @@ Internal reporting platform developed to centralize and track operational incide
 ### Cloud & Deployment
 
 - Vercel
-- Railway
 - Render
+- Railway
 
 ## Current Focus
 
@@ -147,6 +152,6 @@ Building maintainable backend systems, improving software architecture practices
 
 ## Contact
 
-- `📧 Email: edanuc15@gmail.com`
-- `💼 LinkedIn: linkedin.com/in/devedanny`
-- `🌐 Portfolio: danny-place.vercel.app`
+- 📧 Email: edanuc15@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/devedanny](https://linkedin.com/in/devedanny)
+- 🌐 Portfolio: [danny-place.vercel.app](https://danny-place.vercel.app)
