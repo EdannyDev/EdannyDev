@@ -144,7 +144,7 @@ Corporate training system developed during my second professional internship to 
 
 - Vercel
 - Render
-- Railway
+- Aiven
 
 ## Current Focus
 
