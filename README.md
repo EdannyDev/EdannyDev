@@ -36,7 +36,7 @@ I have developed applications used by real users during professional internships
 
 ## Featured Projects
 
-### 📅 Lockstep
+### 📅 Appointment Management System
 
 Booking platform built around availability management and business rule enforcement.
 
