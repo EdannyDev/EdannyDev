@@ -36,7 +36,7 @@ I have developed applications used by real users during professional internships
 
 ## Featured Projects
 
-### 📅 Appointment Management System
+### 📅 Lockstep
 
 Booking platform built around availability management and business rule enforcement.
 
@@ -52,7 +52,7 @@ Booking platform built around availability management and business rule enforcem
 
 - Backend: <https://github.com/EdannyDev/backend-appointment>
 - Frontend: <https://github.com/EdannyDev/frontend-appointment>
-- Live demo: <https://gestor-citas-edannydev.vercel.app>
+- Live demo: <https://lockstep-edannydev.vercel.app>
 
 ---
 
