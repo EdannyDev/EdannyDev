@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edwin Daniel Uc Chan
 
-### Full Stack Developer | Business Applications & API Development
+### Full Stack Developer Jr. | Business Applications & API Development
 
 I build business-oriented software systems focused on process automation, business logic, and data consistency.
 I have developed applications used by real users during professional internships and continue building solutions inspired by real-world production scenarios.
