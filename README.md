@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Edwin Daniel Uc Chan
 
-### Full Stack Developer (Backend-Focused) | Business Applications & API Development
+### Full Stack Developer | Business Applications & API Development
 
 I build business-oriented software systems focused on process automation, business logic, and data consistency.
 I have developed applications used by real users during professional internships and continue building solutions inspired by real-world production scenarios.
 
-🟢 **Open to work** — Actively looking for a remote Junior Full Stack / Backend Developer role in Mexico & LATAM. Available to start immediately.
+🟢 **Open to work** — Actively looking for a remote Junior Full Stack role in Mexico & LATAM. Available to start immediately.
 
 ## What I Build
 
@@ -132,8 +132,7 @@ Corporate training system developed during my second professional internship to 
 
 ### Testing
 
-- Jest
-- Supertest
+- Node.js Test Runner
 
 ### Tools
 
